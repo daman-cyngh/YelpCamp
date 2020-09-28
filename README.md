@@ -2,7 +2,6 @@
 YelpCamp is a Node.js web application with RESTful routing.
 
 ## Features
-
 ### Authentication:
 <ul>
   <li>User signup with username, password</li>
@@ -31,6 +30,7 @@ YelpCamp is a Node.js web application with RESTful routing.
   <li>Google Fonts</li>
   <li>Font Awesome</li>
   <li>Bootstrap 3</li>
+</ol>
 
 ### Back-end
 <ol>
