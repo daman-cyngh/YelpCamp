@@ -1,0 +1,27 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+.thumbnail img {
+	width: 100%;
+}
+
+.thumbnail {
+	padding: 0;
+}
+
+.thumbnail .caption-full{
+	padding: 9px;
+}
+
+#delete-form {
+	display: inline;
+}
+
+#author #description {
+	padding-left: 5px;
+}
+
+#content {
+	padding: 2px;
+}
